@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "742287330813",
+    "project_id": "video-call-13fe4",
+    "storage_bucket": "video-call-13fe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742287330813:android:e7522ed7bd8c0aee4c1d94",
+        "android_client_info": {
+          "package_name": "com.timurturbil.videocall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742287330813-kb2kj82lvs7cpfm40pbsqml7m9omi799.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.timurturbil.videocall",
+            "certificate_hash": "400d5d1f576c3b95e0bd2b63e93db0da11d4ea74"
+          }
+        },
+        {
+          "client_id": "742287330813-koqr5t3c1nmbs35sgfhb95glbajivl7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuVLG_XQLZ4RlXg1R-Z93-8I0mx5b0Jjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742287330813-koqr5t3c1nmbs35sgfhb95glbajivl7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
